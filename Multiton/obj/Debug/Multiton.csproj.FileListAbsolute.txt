@@ -1,0 +1,8 @@
+C:\Users\Kaptan\source\repos\DesignPatterns\Multiton\bin\Debug\Multiton.exe.config
+C:\Users\Kaptan\source\repos\DesignPatterns\Multiton\bin\Debug\Multiton.exe
+C:\Users\Kaptan\source\repos\DesignPatterns\Multiton\bin\Debug\Multiton.pdb
+C:\Users\Kaptan\source\repos\DesignPatterns\Multiton\obj\Debug\Multiton.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Multiton\obj\Debug\Multiton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Multiton\obj\Debug\Multiton.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Multiton\obj\Debug\Multiton.exe
+C:\Users\Kaptan\source\repos\DesignPatterns\Multiton\obj\Debug\Multiton.pdb

@@ -1,0 +1,8 @@
+C:\Users\Kaptan\source\repos\DesignPatterns\Composite\obj\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Composite\obj\Debug\Composite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\Kaptan\source\repos\DesignPatterns\Composite\bin\Debug\Composite.exe
+C:\Users\Kaptan\source\repos\DesignPatterns\Composite\bin\Debug\Composite.pdb
+C:\Users\Kaptan\source\repos\DesignPatterns\Composite\obj\Debug\Composite.exe
+C:\Users\Kaptan\source\repos\DesignPatterns\Composite\obj\Debug\Composite.pdb

@@ -1,0 +1,8 @@
+C:\Users\Kaptan\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Kaptan\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\Kaptan\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Kaptan\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\Kaptan\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

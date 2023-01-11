@@ -1,0 +1,8 @@
+C:\Users\Kaptan\source\repos\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\Kaptan\source\repos\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\Kaptan\source\repos\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Kaptan\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Kaptan\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\Kaptan\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.pdb
